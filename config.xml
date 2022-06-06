@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = 'UTF-8'?>
+<widget
+       android-VersionCode = "1"
+       id='com.testapp'
+       version='1.1.1'
+       xmlns = 'https://testapp/widgets'>
+
+       <name>testapp</name>
+       <description> Just Testing it works or not </description>
+       <author>justaunknownguy</author>
+
+       <preference name = 'orientation' value = 'portrait'/>
+
+</widget>
